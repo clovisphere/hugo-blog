@@ -29,7 +29,7 @@ dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Simple minimalist theme"
+description = "My personal blog"
 keywords = "minimalist,blog,goa,hugo,developer"
 
 ## Social Accounts
