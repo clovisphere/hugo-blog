@@ -49,11 +49,11 @@ highlightjs = true
 ## Main Menu
 [[menu.main]]
     name = "about"
-    weight = 200
+    weight = 100
     identifier = "about"
     url = "/about/"
 [[menu.main]]
     name = "blog"
     identifier = "blog"
-    weight = 100
+    weight = 200
     url = "/blog/"
