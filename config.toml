@@ -1,5 +1,4 @@
 ## Basic Configuration
-
 baseurl = "https://clovisphere.github.io" 
 builddrafts = false
 canonifyurls = false
@@ -10,7 +9,7 @@ layoutdir = "layouts"
 publishdir = "public"
 
 author = "Clovis Mugaruka"
-title = "Human. Techie"
+title = "Human. Techie. Wannabe gutarist"
 
 theme = "hugo-goa"
 
@@ -25,14 +24,14 @@ enableRobotsTXT = true
 [params]
 author = "Clovis Mugaruka"
 intro = "Tech connoisseur, Rumba aficionado"
-description = "Now <a href=\"https://www.jumo.world/\">@JumoWorld</a>. Previously <a href=\"https://www.cellulant.com/\">@Cellulant</a>. <br/><br/> <q>Inspire before you expire.</q>"
+description = "Now <a href=\"https://www.jumo.world/\">@JumoWorld</a>. Previously <a href=\"https://www.cellulant.com/\">@Cellulant</a>. <br/><br/> <q>Inspire before you expire</q>"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
 description = "My personal blog"
-keywords = "minimalist,blog,goa,hugo,developer"
+keywords = "minimalist,blog,goa,hugo,developer,tester"
 
 ## Social Accounts
 [params.social]
@@ -49,12 +48,12 @@ highlightjs = true
 
 ## Main Menu
 [[menu.main]]
-    name = "blog"
-    weight = 100
-    identifier = "blog"
-    url = "/blog/"
-[[menu.main]]
     name = "about"
-    identifier = "about"
     weight = 200
+    identifier = "about"
     url = "/about/"
+[[menu.main]]
+    name = "blog"
+    identifier = "blog"
+    weight = 100
+    url = "/blog/"
