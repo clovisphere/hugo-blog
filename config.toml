@@ -15,7 +15,7 @@ title = "Human. Techie"
 theme = "hugo-goa"
 
 ## Hugo Built-in Features
-disqusShortname = "https-clovisphere-github-io" # Comment out to disable Disqus.
+disqusShortname = "clovisphere" # Comment out to disable Disqus.
 googleAnalytics = "XYZ"
 enableRobotsTXT = true
 
