@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 date: 2018-07-21T14:16:20+03:00
-draft: true
+draft: false
 ---
 
 To whom it may concern,
