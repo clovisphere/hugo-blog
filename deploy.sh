@@ -2,8 +2,8 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
-# Since I am making changes to "hugo-blog", I need to git add & git commit then
-# git push origin master, befre updating the main blog website
+# Since I am making changes to "hugo-blog", I need to "git add" & "git commit" then
+# "git push origin master", befre updating the main blog website
 git commit -am "updated content"
 git push origin master
 
