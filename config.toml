@@ -1,0 +1,58 @@
+## Basic Configuration
+
+baseurl = "https://clovisphere.github.io" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Clovis Mugaruka"
+title = "Human. Techie"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+disqusShortname = "clovisphere-github-io.disqus.com" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Clovis Mugaruka"
+intro = "Tech connoisseur, Rumba aficionado"
+description = "Now <a href=\"https://www.jumo.world/\">@JumoWorld</a>. Previously <a href=\"https://www.cellulant.com/\">@Cellulant</a>. <br/><br/> <q>Inspire before you expire.</q>"
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "clovisphere"
+linkedin = "clovis-mugaruka-429769132"
+twitter = "clovisphere"
+email = "clovis.mugaruka@gamil.com"
+
+## Extras
+[params.extra]
+copyright = "© 2018. Clovis Mugaruka. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = true
+highlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
