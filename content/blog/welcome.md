@@ -13,7 +13,7 @@ So here we are, my own space on the web. A place where I will rant ooooh yes, I 
 'cause heeeeeck life is too short.. if I die, at least, my words will survive:-)
 
 **P.S** This blog will contain my personal views, thoughts on different topics, 
-it's not set in stone, nor should you treat as "biblical verse", I write for me (first), people reading my ish is an accident (thanks to the internet), 
+it's not set in stone, nor should you treat what I say/write as "biblical verse", I write for me (first), people reading my ish is an accident (thanks to the internet), 
 so don't take things too seriously, especially on this blog - if you ain't happy with what I say or how I say it, please, go write your own, it's a free world, friend!
 
 
