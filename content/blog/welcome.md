@@ -10,7 +10,7 @@ I decided to start this blog out of fustration, but mainly because there's so ma
 but I can't, thanks to the 130-160 characters limit (Hi, WhatsApp! Hi, Twitter).
 
 So here we are, my own space on the web. A place where I will rant ooooh yes, I will rant about anything and everything 
-'cause heeeeeck life is too short.. if I die, I still my words will survive:-)
+'cause heeeeeck life is too short.. if I die, my words will survive:-)
 
 **P.S** This blog will contain my personal views, thoughts on different topics, 
 it's not set in stone, nor is it biblical verses, I write for me (first), people reading my ish is an accident (thanks to the internet), 
