@@ -15,8 +15,12 @@ I don't know whether it will be a daily, weekly, bi-weekly, or monthly thing, no
 Without futher ado, here is our first code challenge:point_down:
 
 > Given an array of integers, return True if the sequence '1, 2, 3' appears somewhere in the array.
-> e.g. input: [1, 2, 3], output: True
-> e.g. input [11, 1, 3, 1], output: False
+
+```
+Example: 
+(1) input: [1, 2, 3], output: True
+(2) input [11, 1, 3, 1], output: False
+```
 
 ##### Python:snake:
 
