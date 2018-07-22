@@ -16,11 +16,10 @@ Without futher ado, here is our first code challenge:point_down:
 
 > Given an array of integers, return True if the sequence '1, 2, 3' appears somewhere in the array.
 
-```
-Example: 
-(1) input: [1, 2, 3], output: True
-(2) input [11, 1, 3, 1], output: False
-```
+Example:   
+ 
+(1) input: [1, 2, 3, 24, 1] => output: True   
+(2) input [11, 1, 3, 1] => output: False  
 
 ##### Python:snake:
 
